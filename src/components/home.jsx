@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './Header';
+import Header from '../assets/img/header.jpg';
 import CardPizza from './CardPizza';
 
 const Home = () => {
